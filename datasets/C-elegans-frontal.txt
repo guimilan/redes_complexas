@@ -1,7 +1,3 @@
-# Directed graph: C-elegans-frontal.txt
-# C. elegans neuronal network of frontal neurons: nodes are neurons and edges are synapses
-# Nodes: 131 Edges: 764
-# FromNodeId ToNodeId
 11 0
 26 0
 69 0
